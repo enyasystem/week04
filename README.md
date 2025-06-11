@@ -1,25 +1,29 @@
-# CSS Cascade Demo 🎨
+# CSS Demos Collection 🎨
 
-Welcome to the **CSS Cascade** project! This simple project demonstrates how CSS cascading and specificity work using nested boxes and colored text.
+Welcome to your CSS learning workspace! This project contains hands-on demos for key CSS concepts, each in its own folder. Explore, experiment, and learn by editing the code and seeing the results in your browser.
 
-## 📂 Project Structure
-- `index.html` — Main HTML file with nested boxes and text.
-- `style.css` — CSS file to style the boxes and text.
-- `goal.png` — Reference image for the desired result.
+## 📁 Project Structure
+
+- **7.0 CSS Cascade**
+  - Demonstrates how CSS cascading and specificity work using nested boxes and colored text.
+  - Files: `index.html`, `style.css`, `goal.png`
+- **7.1 Combining Selectors**
+  - Shows how to use and combine different CSS selectors to style a to-do list, focusing on specificity and selector combinations.
+  - Files: `index.html`, `style.css`, `README.md`
+- **7.2 CSS Positioning**
+  - Practice CSS positioning with a blue box and a red circle, using relative and absolute positioning.
+  - Files: `index.html`, `goal.png`
 
 ## 🚀 How to Use
-1. Open `index.html` in your browser.
-2. Explore how different CSS rules apply to the nested elements.
-3. Modify `style.css` to experiment with the cascade and specificity.
+1. Open any `index.html` file in your browser to view the demo.
+2. Edit the corresponding `style.css` (or `<style>` block) to experiment with the concepts.
+3. Refer to the `goal.png` images for visual targets where provided.
 
-## 📝 Features
-- Nested boxes to visualize CSS inheritance.
-- Colored text to show specificity and override examples.
-- Clean, minimal structure for easy learning.
-
-## 👀 Preview
-Check out `goal.png` to see what the final result should look like!
+## 📚 Learning Topics
+- CSS Cascade & Specificity
+- Combining Selectors
+- Positioning (relative, absolute)
 
 ---
 
-Happy styling! ✨
+Happy learning and styling! ✨
