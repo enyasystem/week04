@@ -26,4 +26,4 @@ Welcome to your CSS learning workspace! This project contains hands-on demos for
 
 ---
 
-Happy learning and styling! ✨
+Happy learning and styling ✨
